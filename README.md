@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ryan
-- 👀 I’m interested in creating websites and growing my knowledge
-- 🌱 I’m currently learning different languages like C and C++ and javascript
+- 👋 Hi, my name is Ryan a fresh student in Software development
+- 👀 I'm intersted in creating many things, trying to learn more and more every day
+- 🌱 I'm currently learning differents languages like C++, JavaScript and maybe many more in the future
 - 📫 You can reach by my mail : ryanechikhi2004@gmail.com
 
 <!---
