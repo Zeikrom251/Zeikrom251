@@ -2,7 +2,7 @@ name: Update README Daily
 
 on:
   schedule:
-    - cron: '* * * * *'  # Tous les jours à 10h UTC (tu peux changer l'heure)
+    - cron: '0 10 * * *'  # Tous les jours à 10h UTC (tu peux changer l'heure)
 
 jobs:
   update-readme:
