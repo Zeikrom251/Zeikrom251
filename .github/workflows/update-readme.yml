@@ -12,14 +12,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Show Git Status and logs
-      run: |
-        git status
-        git log --oneline -n 5
-
     - name: Update README
       run: |
-        echo "🚀 Daily inspiration: $(date)" >> README.md
+        # Définir la nouvelle ligne avec la date actuelle
+        NEW_LINE="🚀 Daily inspiration: $(date)"
+        
+        # Remplacer la ligne contenant "🚀 Daily inspiration:" par la nouvelle ligne
+        sed -i "/^🚀 Daily inspiration:/c\\$NEW_LINE" README.md
 
     - name: Commit and push changes
       run: |
