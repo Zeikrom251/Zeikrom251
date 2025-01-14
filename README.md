@@ -1,29 +1,33 @@
 # 👋 Welcome to my GitHub!  
 
-Hi there! I'm **Ryan**, a passionate developer who loves exploring the world of **Development**.  
+Hi there! I'm **Ryan**, a **20 years** old developer. Here you will find some personal projects and school related (*Projects*, *homeworks*) that i share with you !  
 
-### 🎓 About Me
+## 🎓 About Me
 - 💻 Recently graduated with a **BTS SNIR** (*French degree*).  
 - 🌱 Always learning and experimenting with new technologies.  
 - 🚀 Focused on building cool projects and sharpening my skills.  
 
-### ✨ What I Love  
+## 🤍 What I Love  
 - 🌐 Creating responsive, user-friendly websites.  
 - 🤖 Building fun and functional Discord bots.  
-- 🔌 Tinkering with Arduino and electronics.  
+- 🔌 Tinkering with Arduino and electronics.
+- 🚦 Sim Racing with people from differents countries and on differents games.
 
-### 📊 Skills 
-- **Languages**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white).  
-- **Tools**: Visual Studio Code, Git, Discord.js, Figma, Arduino.  
-- **Hobbies**: Coding, Sim Racing, and always pushing my limits!
-
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeikrom251&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+## 📊 Skills 
+- **Programming Languages :** [![proglang](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,cpp)](https://github.com/Zeikrom251).
+- **Tools :** [![tools](https://skillicons.dev/icons?i=vscode,powershell,npm,git,github,gitlab,discordjs,figma,arduino)](https://github.com/Zeikrom251)
+- **Database :** [![tools](https://skillicons.dev/icons?i=mysql)](https://github.com/Zeikrom251)
 
 ### 📬 Get in Touch
-- 📨 [Gmail](mailto:ryanechikhi2004@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ryan-chikhi-912333228/)  
-- 🌟 Let's collaborate on cool projects!  
+[![proglang](https://skillicons.dev/icons?i=gmail)](mailto:ryanechikhi2004@gmail.com)
+[![proglang](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/ryan-chikhi-912333228/](https://www.linkedin.com/in/ryanchikhi/))  
+
+
+<details>
+  <summary>Github Stats 📊</summary>
+
+  <a href="#"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeikrom251&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=donut)</a>
+</details>
 
 ---
 
