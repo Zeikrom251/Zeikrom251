@@ -1,37 +1,37 @@
-# 👋 Welcome to my GitHub!  
+<div align="center">
+  <h1>🍃【 Zeikrom 】</h1>
+  <p>
+    Hi there! I'm <strong>Ryan</strong>, a <strong>21 years</strong> old developer.<br>I'm actually learning React & Typescript for web development, you can find some projects in my <a href="https://github.com/Zeikrom251?tab=repositories">repositories</a> and          follow my journey !
+  </p>
+  <h5>
+    <a href="https://discord.com/users/680179967233228835">
+      <img src="https://lanyard.cnrad.dev/api/680179967233228835?bg=2b2d31&borderRadius=40px&theme=dark" />
+    </a>
+  </h5>
+</div>
 
-Hi there! I'm **Ryan**, a **20 years** old developer. Here you will find some personal projects and school related (*Projects*, *homeworks*) that i share with you !  
-
-## 🎓 About Me
-- 💻 Recently graduated with a **BTS SNIR** (*French degree*).  
-- 🌱 Always learning and experimenting with new technologies.  
-- 🚀 Focused on building cool projects and sharpening my skills.  
-
-## 🤍 What I Love  
-- 🌐 Creating responsive, user-friendly websites.  
-- 🤖 Building fun and functional Discord bots.  
-- 🔌 Tinkering with Arduino and electronics.
-- 🚦 Sim Racing with people from differents countries and on differents games.
-
-## 📊 Skills 
-- **Programming Languages :** [![proglang](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,cpp)](https://github.com/Zeikrom251).
-- **Tools :** [![tools](https://skillicons.dev/icons?i=vscode,powershell,npm,git,github,gitlab,discordjs,figma,arduino)](https://github.com/Zeikrom251)
-- **Database :** [![tools](https://skillicons.dev/icons?i=mysql)](https://github.com/Zeikrom251)
-
-### 📬 Get in Touch
-[![proglang](https://skillicons.dev/icons?i=gmail)](mailto:ryanechikhi2004@gmail.com)
-[![proglang](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/ryan-chikhi-912333228/](https://www.linkedin.com/in/ryanchikhi/))  
+<br>
 
 
-<details>
-  <summary>Github Stats 📊</summary>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <h2>📊 « Statistiques »</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zeikrom251&theme=city-lights&hide_border=true&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=100" alt="Zeikrom's GitHub streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zeikrom251&theme=city_lights" alt="Zeikrom's GitHub Contribution" />
+</div>
 
-  <a href="#"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeikrom251&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=donut)</a>
-</details>
+<br>
 
----
+<div align="center">
+  <h2>🎯 « Skills »</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,discordjs,cpp,mysql,postgres,graphql,vscode,ubuntu,powershell,git,github,gitlab,discord,figma,arduino"/>
+</div>
 
-Thanks for visiting my GitHub! 😄  
+<br>
 
----
-🚀 Daily inspiration: Fri Jun 13 10:21:13 UTC 2025
+
+<div align="center">
+  <p>Thanks for visiting my GitHub! 😄</p>  
+  <img src="https://profile-counter.glitch.me/MrudulaGajulapalli/count.svg" />
+</div>
+
+🚀 Daily inspiration: Thu Jun 12 10:21:20 UTC 2025
