@@ -30,8 +30,7 @@
 
 
 <div align="center">
-  <p>Thanks for visiting my GitHub! 😄</p>  
-  <img src="https://profile-counter.glitch.me/MrudulaGajulapalli/count.svg" />
+  <p>Thanks for visiting my GitHub! 😄</p>
 </div>
 
 🚀 Daily inspiration: Wed Jul 16 10:22:45 UTC 2025
