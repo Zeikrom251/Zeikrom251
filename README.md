@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🍃【 Zeikrom 】</h1>
   <p>
-    Hi there! I'm <strong>Ryan</strong>, a <strong>21 years</strong> old developer.<br>I'm actually learning React & Typescript for web development, you can find some projects in my <a href="https://github.com/Zeikrom251?tab=repositories">repositories</a> and          follow my journey !
+    Hi there! I'm <strong>Ryan</strong>, a <strong>21 years</strong> old developer.<br>I'm actually applying what i learned about React & Typescript for web development, you can find some projects in my <a href="https://github.com/Zeikrom251?tab=repositories">repositories</a> and          follow my journey !
   </p>
   <h5>
     <a href="https://discord.com/users/680179967233228835">
