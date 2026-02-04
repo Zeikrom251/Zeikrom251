@@ -15,7 +15,6 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <h2>📊 « Statistiques »</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zeikrom251&theme=city-lights&hide_border=true&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=100" alt="Zeikrom's GitHub streak" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zeikrom251&theme=city_lights" alt="Zeikrom's GitHub Contribution" />
 </div>
 
