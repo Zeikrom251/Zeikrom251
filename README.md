@@ -4,9 +4,7 @@
     Hi there! I'm <strong>Ryan</strong>, a <strong>21 years</strong> old developer.<br>I'm actually applying what i learned about React & Typescript for web development, you can find some projects in my <a href="https://github.com/Zeikrom251?tab=repositories">repositories</a> and          follow my journey !
   </p>
   <h5>
-    <a href="https://discord.com/users/680179967233228835">
-      <img src="https://lanyard.cnrad.dev/api/680179967233228835?bg=2b2d31&borderRadius=40px&theme=dark" />
-    </a>
+    <a href="https://discord.com/users/680179967233228835"><img src="https://lanyard.cnrad.dev/api/680179967233228835?theme=dark&hideBadges=true" /></a>
   </h5>
 </div>
 
