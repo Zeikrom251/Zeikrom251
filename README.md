@@ -13,7 +13,9 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <h2>📊 « Statistiques »</h2>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zeikrom251&theme=city_lights" alt="Zeikrom's Github Contribution" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zeikrom251&theme=city_lights" alt="Zeikrom's GitHub Contribution" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zeikrom251&theme=city_lights" alt="Zeikrom's top language commited" />
 </div>
 
 <br>
