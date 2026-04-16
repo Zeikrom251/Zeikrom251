@@ -22,7 +22,8 @@
 
 <div align="center">
   <h2>🎯 « Skills »</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,discordjs,cpp,mysql,postgres,graphql,vscode,ubuntu,powershell,git,github,gitlab,discord,figma,arduino"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,discordjs,cpp,mysql,postgres"/>
+  <img src="https://skillicons.dev/icons?i=graphql,vscode,ubuntu,powershell,git,github,gitlab,discord,figma,arduino">
 </div>
 
 <br>
