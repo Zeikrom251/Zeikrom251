@@ -47,7 +47,7 @@
           <img src="https://img.shields.io/badge/🌐_Live_Demo-undercut.click-1a5c38?style=for-the-badge&labelColor=1a1a1a" />
         </a>
         &nbsp;
-        <a href="https://github.com/Zeikrom251">
+        <a href="https://github.com/Zeikrom251/undercut.click">
           <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
