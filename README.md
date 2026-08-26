@@ -32,7 +32,7 @@
       </div>
       <br>
       <p>
-        Full-stack web app for Formula 1 fans to submit race predictions, score points automatically,<br>
+        Full-stack web app for Motorsports fans to submit race predictions, score points automatically,<br>
         and compete on a seasonal leaderboard. Built as a <strong>monorepo (Turborepo)</strong> from scratch.<br>
         Inspired by a Discord bot used by a community of <strong>30,000+ users</strong>.
       </p>
