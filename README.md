@@ -52,6 +52,39 @@
         </a>
       </p>
     </td>
+      <tr>
+    <td align="center" colspan="2">
+      <br>
+      <img src="https://img.shields.io/badge/✅_LIVE-no_account_needed-2EE59D?style=flat-square" />
+      <br><br>
+      <div align="center">
+        <a href="https://emeraldcast.vercel.app">
+          <img src="https://img.shields.io/badge/📺_EMERALDCAST-Twitch_Multistream_Viewer-1a1a1a?style=for-the-badge&labelColor=12B97A" />
+        </a>
+      </div>
+      <br>
+      <p>
+        Watch several Twitch streams side by side on one screen, pick whose audio you hear,<br>
+        and follow every chat in a single merged feed. Built as a <strong>static React app</strong><br>
+        that talks to Twitch straight from the browser: <strong>no backend, no login</strong>.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=typescript,react,sass,vite,figma,vercel" />
+      </p>
+      <p>
+        📺 Multi-stream wall &nbsp;|&nbsp; 💬 Merged chat &nbsp;|&nbsp; 🧭 Category browser &nbsp;|&nbsp; ⌘ Command palette
+      </p>
+      <p>
+        <a href="https://emeraldcast.vercel.app">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-emeraldcast.vercel.app-12B97A?style=for-the-badge&labelColor=1a1a1a" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Zeikrom251/EmeraldCast">
+          <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
     <td align="center" width="50%">
       <div align="center">
         <a href="https://tilkal.github.io/leaf-it-to-me/?path=/docs/leafittome--docs">
