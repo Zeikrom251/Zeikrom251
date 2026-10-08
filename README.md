@@ -22,9 +22,6 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <br>
-      <img src="https://img.shields.io/badge/🔨_IN_PROGRESS-actively_maintained-F5D327?style=flat-square" />
-      <br><br>
       <div align="center">
         <a href="https://www.undercut.click">
           <img src="https://img.shields.io/badge/🏎️_UNDERCUT-F1_Pronostics_App-1a1a1a?style=for-the-badge&labelColor=1a5c38" />
@@ -52,11 +49,7 @@
         </a>
       </p>
     </td>
-      <tr>
-    <td align="center" colspan="2">
-      <br>
-      <img src="https://img.shields.io/badge/✅_LIVE-no_account_needed-2EE59D?style=flat-square" />
-      <br><br>
+    <td align="center" width="50%">
       <div align="center">
         <a href="https://emeraldcast.vercel.app">
           <img src="https://img.shields.io/badge/📺_EMERALDCAST-Twitch_Multistream_Viewer-1a1a1a?style=for-the-badge&labelColor=12B97A" />
@@ -85,6 +78,35 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
+        <a href="https://github.com/Zeikrom251/StewardPad">
+          <img src="https://img.shields.io/badge/🏁_STEWARDPAD-Le_Mans_Ultimate_Race_Control-1a1a1a?style=for-the-badge&labelColor=C40D1C" />
+        </a>
+      </div>
+      <br>
+      <p>
+        Free and open source race control for <strong>Le Mans Ultimate</strong> league stewards.<br>
+        Log an incident with one keypress, review it against the replay, and publish decisions drivers can read.<br>
+        A <strong>Rust</strong> backend and a <strong>React</strong> UI, packaged with <strong>Tauri</strong>.
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=rust,tauri,react,typescript,sass,vite" />
+      </p>
+      <p>
+        ⌨️ One-key logging &nbsp;|&nbsp; 🔎 Review queue &nbsp;|&nbsp; 📄 Decisions document &nbsp;|&nbsp; 💬 Discord posts
+      </p>
+      <p>
+        <a href="https://github.com/Zeikrom251/StewardPad/releases/latest">
+          <img src="https://img.shields.io/badge/⬇️_Download-Windows-FF453A?style=for-the-badge&labelColor=1a1a1a" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Zeikrom251/StewardPad">
+          <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
     <td align="center" width="50%">
       <div align="center">
         <a href="https://tilkal.github.io/leaf-it-to-me/?path=/docs/leafittome--docs">
